@@ -1,4 +1,7 @@
-%%timeit
+%%timeit -n5000
+# %%timeit -n1150
+# %%timeit -n250
+
 import random
 
 randList =[]
